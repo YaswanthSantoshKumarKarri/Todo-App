@@ -1,0 +1,16 @@
+.search-msg {
+  text-align: center;
+}
+
+.search-msg > img {
+  width: 200px;
+  height: 200px;
+}
+
+.search-msg > span {
+  font-weight: 900;
+  color: var(--gray);
+}
+p {
+  font-size: 15px;
+}

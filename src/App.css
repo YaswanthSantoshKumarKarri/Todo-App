@@ -1,0 +1,25 @@
+:root {
+  --yellow: #f5c32c;
+  --orange: #fca61f;
+  --black: #242d49;
+  --gray: #788097;
+  --blueCard: #ddf8fe;
+  --purple: rgb(238 210 255);
+  --boxShadow: 0px 19px 60px rgb(0 0 0 / 8%);
+  --orangeCard: rgba(252, 166, 31, 0.45);
+  --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+  --greenishblue: #e3f2fd;
+}
+
+.lost-image {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/322/509/177/guy-anime-computer-tears-wallpaper-preview.jpg");
+  height: 25em !important;
+  width: 35em;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
